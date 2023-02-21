@@ -26,5 +26,6 @@ Note: Some of the data provided to the platform by the seller contained some pri
 
 The sample_submission.csv contains:
 
-#PRODUCT_ID - id of the product
-#PRODUCT_PRICE - some dummy value
+PRODUCT_ID - id of the product
+
+PRODUCT_PRICE - some dummy value
