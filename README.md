@@ -1,5 +1,4 @@
-# Project-1
-SnapIt 
+# SnapIt
 SnapIt is an online reselling platform where local sellers can list their products for sale and obtain the right amount of money from items they might not need anymore.
 
 You are the new employee hired by SnapIt to solve their main issue- deciding the selling price of their products. Most sellers do not know how to reasonably price their products and would like to be able to choose an optimum selling point. The problem here is that a user can list any item for sale or even a group of items from various categories.
@@ -27,5 +26,5 @@ Note: Some of the data provided to the platform by the seller contained some pri
 
 The sample_submission.csv contains:
 
-PRODUCT_ID - id of the product
-PRODUCT_PRICE - some dummy value
+#PRODUCT_ID - id of the product
+#PRODUCT_PRICE - some dummy value
